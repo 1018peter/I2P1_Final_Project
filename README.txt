@@ -1,0 +1,1 @@
+To play without opening up VSCode, execute the .exe file in the FinalProjectDemo folder.

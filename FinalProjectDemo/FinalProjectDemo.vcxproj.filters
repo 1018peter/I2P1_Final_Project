@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="來源檔案">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="S31-Night Prowler.ogg">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="mythica.ogg">
+      <Filter>資源檔</Filter>
+    </None>
+    <None Include="favorite-colors.ogg">
+      <Filter>資源檔</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Desktop\Allegro5Template-master\src\Template (basic)\main.c">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Desktop\Allegro5Template-master\src\Template (basic)\main-bg.jpg">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\Allegro5Template-master\src\Template (basic)\start-bg.jpg">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="image12.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="smallfighter0006.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="settings2.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="settings.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="sea_scroll_bg.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="player.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="game-over-text.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="elemental.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="enemybullet1.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="playerUI.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="Octa.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="protag_base.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="protag_wings.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="cloud_scroll_layer_1.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="cloud_scroll_layer_2.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="cloud_scroll_layer_3.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="antag_base.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="bossUI.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="lightning_bolt.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="laser_array.png">
+      <Filter>資源檔</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="level_script.txt">
+      <Filter>資源檔</Filter>
+    </Text>
+    <Text Include="stage_intro.txt">
+      <Filter>資源檔</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="pirulen.ttf">
+      <Filter>資源檔</Filter>
+    </Font>
+    <Font Include="advanced_pixel_lcd-7.ttf">
+      <Filter>資源檔</Filter>
+    </Font>
+  </ItemGroup>
+</Project>
