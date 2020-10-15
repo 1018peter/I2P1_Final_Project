@@ -1,5 +1,5 @@
 // [main.c]
-// this template is provided for the 2D shooter game.
+// The source code of the game.
 
 #define _CRT_SECURE_NO_DEPRECATE
 #include <stdio.h>
